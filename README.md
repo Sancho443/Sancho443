@@ -7,8 +7,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancho443&layout=compact&langs_count=6&theme=dracula" height="150" alt="Sanchez's Top Languages" />
 </div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hacker typing GIF" />
-
 <br clear="both" />
 
 <h3 align="left">🧠 About Me (The "Gaffer's Tactics")</h3>
@@ -91,29 +89,13 @@ A Python tool that scans <code>requirements.txt</code> for suspicious packages a
 </li>
 
 <li>
-<h3>🔍 API-Vanguard: AI-Powered API Auditor</h3>
-<p>
-A Python utility that analyzes web apps, extracts API endpoints from JS, and employs AI to rank them by security risk (IDORs, Broken Access Control, etc.).
 
 
-
-
-<b>Goal:</b> Help devs fix risky APIs before attackers find them.
-
-
-
-
-<i>Status: Planning 🚧</i>
 </p>
 </li>
 </ul>
 
-<h3 align="left">🎯 My Goals (The "Season Ambitions")</h3>
 
-<ul align="left">
-<li>Secure a DevSecOps or Security Automation internship by 2026.</li>
-<li>Contribute to open-source security tools that make developers sleep better.</li>
-<li>Build a GitHub portfolio worthy of the Champions League.</li>
 </ul>
 
 <h3 align="left">🌐 Let's Connect (The "Scout's Office")</h3>
@@ -143,6 +125,7 @@ When the IDE is closed, I'm probably watching anime, gaming, or wondering why my
 
 <!-- (FIXED) Added the snake animation back in, linked to your username -->
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sancho443/Sancho443/output/snake.svg" alt="Snake contribution animation" />
-</p>
+<p align="center">🐍 Watch my contributions come alive below</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sancho443/Sancho443/output/snake.svg" alt="Snake animation" />
+</div>
