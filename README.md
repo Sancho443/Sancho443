@@ -3,9 +3,11 @@
 <!-- Stats Section -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sancho443&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="Sanchez's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancho443&layout=compact&langs_count=6&theme=dracula" height="150" alt="Sanchez's Top Languages" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Sancho443&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_bust=5" height="150" alt="Sanchez's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancho443&layout=compact&langs_count=6&theme=dracula&cache_bust=1" height="150" alt="Sanchez's Top Languages" />
 </div>
+
 
 <br clear="both" />
 
