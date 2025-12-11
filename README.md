@@ -28,7 +28,7 @@
 I am a developer who builds reliable Python automation and secure backend logic.
 
 * **My Value:** I catch bugs early so your system doesn’t bottle it at the finish line like Arsenal when it actually matters.
-* **Goal:** Seeking a challenging internship to automate workflows and secure infrastructure.
+* **Goal:**  automate workflows and secure infrastructure.
 
 ## 🛠️ Technical Stack
 
