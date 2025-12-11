@@ -45,9 +45,9 @@ I am a developer who builds reliable Python automation and secure backend logic.
 
 | **Project** | **Status** | **Tech Stack** |
 | :--- | :--- | :--- |
-| 🛡️ **[compliance-auditor](https://github.com/Sancho443/enterprise-compliance-auditor)** | <br>Python automation that locks down Ubuntu servers (Configures UFW, Fail2Ban, checks file permissions). Generates a PDF report so I don't have to explain it manually. | `Python`, `ReportLab`, `Bash` |
+| 🛡️ **[compliance-auditor🚧()](https://github.com/Sancho443/enterprise-compliance-auditor)** | <br>*(In Progress)*Python automation that locks down Ubuntu servers (Configures UFW, Fail2Ban, checks file permissions). Generates a PDF report so I don't have to explain it manually. | `Python`, `ReportLab`, `Bash` |
 
-## 🚧 Research Roadmap (Q1 2026)
+## 🚧 Research Roadmap 
 
 * **🔬 Advanced-Research-Lab:** A controlled testing environment for automating the detection of Logic Flaws (IDORs) and API vulnerabilities. *(In Progress)*
 
