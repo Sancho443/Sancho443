@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sanchez&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Automation%20Specialist%20|%20Secure%20Coding&descAlignY=55&descAlign=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sanchez&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Cybersecurity%20Researcher%20%7C%20Linux%20Internals&descAlignY=55&descAlign=60" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Scripting+Automation+with+Python;Hunting+Bugs+%26+Logic+Flaws;Building+Secure+Backend+Tools;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Python+Automation+%26+Secure+Coding;Linux+Process+Memory+Forensics;Reverse+Engineering+%26+Binary+Analysis;Syscall+Tracing+%26+ELF+Internals;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,45 +15,37 @@
   <a href="mailto:sanchezwes443@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://hackerone.com/sanchez443">
-    <img src="https://img.shields.io/badge/HackerOne-Researcher-333?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
-  </a>
+ 
 </div>
 
 <br>
 
 ## 👨‍💻 About Me
-**Python Developer & Security Enthusiast**
+**Python Developer & Cybersecurity Researcher** (focusing on Linux systems)
 
-I am a developer who builds reliable Python automation and secure backend logic.
+I build automation tools in Python and study low-level Linux internals to understand software behavior, memory management, and system interactions at a deep level.
 
-* **My Value:** I catch bugs early so your system doesn’t bottle it at the finish line like Arsenal when it actually matters.
-* **Goal:**  automate workflows and secure infrastructure.
+- **Core Focus**: Linux process anatomy, memory layout forensics, syscall analysis, ELF binary structures, and reverse engineering techniques.
+- **Skills Bridge**: High-level Python scripting + low-level C/Assembly debugging for secure, efficient systems understanding.
+- **Goal**: Contribute to defensive security, threat analysis, and secure development through ethical research and tooling.
 
 ## 🛠️ Technical Stack
+| Category          | Tools & Technologies |
+|-------------------|----------------------|
+| **Languages**     | Python • C • Assembly (x86/ARM) • Bash |
+| **Debugging & Analysis** | GDB • Radare2 • Valgrind • strace • ltrace • objdump |
+| **Security & Web** | Burp Suite • Linux kernel tracing |
+| **Platforms**     | Linux (Parrot OS / Kali) • Docker |
 
-| **Category** | **My Arsenal** |
-| :--- | :--- |
-| **Languages & Scripting** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> |
-| **Security Tools** | <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=Burp%20Suite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" /> |
-| **DevOps & Containers** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
-| **OS** | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> |
+## 🔬 Key Projects
+- **[malware-research-lab](https://github.com/Sancho443/malware-research-lab)**  
+  Hands-on Linux lab for exploring process memory layout, syscalls, ELF structures, and binary analysis fundamentals. Includes custom compilation/debugging scripts for safe, controlled exercises.
 
----
+- **[Advanced-research-lab](https://github.com/Sancho443/Advanced-research-lab)** (WIP)  
+  Controlled environment for studying web application security and vulnerability patterns.
 
-## 📂 Featured Deployment
 
-| **Project** | **Status** | **Tech Stack** |
-| :--- | :--- | :--- |
-| 🛡️ **[compliance-auditor🚧()](https://github.com/Sancho443/enterprise-compliance-auditor)** | <br>*(In Progress)*Python automation that locks down Ubuntu servers (Configures UFW, Fail2Ban, checks file permissions). Generates a PDF report so I don't have to explain it manually. | `Python`, `ReportLab`, `Bash` |
-
-## 🚧 Research Roadmap 
-
-* **🔬 Advanced-Research-Lab:** A controlled testing environment for automating the detection of Logic Flaws (IDORs) and API vulnerabilities. *(In Progress)*
 
 <br>
-<br>
 
-<div align="center">
-  <i>"Defense wins titles."</i>
-</div>
+<br> <br><div align="center"> <i>"Know thy adversary, know thy code—a thousand battles, a thousand wins."</i> </div>
