@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sanchez&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Cybersecurity%20Researcher%20%7C%20Linux%20Internals&descAlignY=55&descAlign=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sanchez&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Systems%20Programming%20%7C%20Windows%20Internals%20%7C%20Linux%20Internals&descAlignY=55&descAlign=60" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Python+Automation+%26+Secure+Coding;Linux+Process+Memory+Forensics;Reverse+Engineering+%26+Binary+Analysis;Syscall+Tracing+%26+ELF+Internals;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Windows+Process+Internals+%26+Memory;Linux+ELF+Internals+%26+Syscalls;Reverse+Engineering+%26+Binary+Analysis;C+%7C+Go+%7C+Rust" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,37 +15,45 @@
   <a href="mailto:sanchezwes443@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
- 
 </div>
 
-<br>
+---
 
-## 👨‍💻 About Me
-**Python Developer & Cybersecurity Researcher** (focusing on Linux systems)
+## About Me
 
-I build automation tools in Python and study low-level Linux internals to understand software behavior, memory management, and system interactions at a deep level.
+**Computer science student focused on systems programming and security.**
 
-- **Core Focus**: Linux process anatomy, memory layout forensics, syscall analysis, ELF binary structures, and reverse engineering techniques.
-- **Skills Bridge**: High-level Python scripting + low-level C/Assembly debugging for secure, efficient systems understanding.
-- **Goal**: Contribute to defensive security, threat analysis, and secure development through ethical research and tooling.
+I study how operating systems, executables, and processes work beneath the surface. My work centers on **Windows internals, Linux internals, reverse engineering, and low-level systems programming**, with an emphasis on building practical labs and understanding software behavior at the binary level.
 
-## 🛠️ Technical Stack
-| Category          | Tools & Technologies |
-|-------------------|----------------------|
-| **Languages**     | Python • C • Assembly (x86/ARM) • Bash |
-| **Debugging & Analysis** | GDB • Radare2 • Valgrind • strace • ltrace • objdump |
-| **Security & Web** | Burp Suite • Linux kernel tracing |
-| **Platforms**     | Linux (Parrot OS / Kali) • Docker |
+* **Core focus:** Windows process internals, virtual memory, Linux process anatomy, syscall tracing, ELF and PE binary structures, and reverse engineering.
+* **Current direction:** Building systems-level tooling and analysis environments in **C, Go, and Rust**.
+* **Goal:** Develop defensive security tools, systems utilities, and a strong foundation in operating system internals.
 
-## 🔬 Key Projects
-- **[malware-research-lab](https://github.com/Sancho443/malware-research-lab)**  
-  Hands-on Linux lab for exploring process memory layout, syscalls, ELF structures, and binary analysis fundamentals. Includes custom compilation/debugging scripts for safe, controlled exercises.
+## Technical Stack
 
-- **[Advanced-research-lab](https://github.com/Sancho443/Advanced-research-lab)** (WIP)  
-  Controlled environment for studying web application security and vulnerability patterns.
+| Category                 | Tools & Technologies                                          |
+| ------------------------ | ------------------------------------------------------------- |
+| **Languages**            | C • Go • Rust • Bash                                          |
+| **Debugging & Analysis** | GDB • WinDbg • Radare2 • Valgrind • strace • ltrace • objdump |
+| **Security**             | Burp Suite • Wireshark • MobSF                                |
+| **Platforms**            | Linux • Windows • Docker                                      |
 
+## Featured Projects
 
+### Linux Internals Lab
 
-<br>
+Hands-on environment for exploring **ELF binaries, process memory layout, syscalls, and binary analysis** through controlled experiments and custom tooling.
 
-<br> <br><div align="center"> <i>"Know thy adversary, know thy code—a thousand battles, a thousand wins."</i> </div>
+### Windows Internals Lab
+
+Practical experiments covering **Windows processes, virtual memory, system calls, PE binaries, and debugging with WinDbg**, documented as a long-term systems programming project.
+
+### Security Research Lab (WIP)
+
+Controlled environment for studying **web application security, vulnerability patterns, and defensive analysis techniques**.
+
+---
+
+<div align="center">
+  <i>"Understand the system before trying to secure it."</i>
+</div>
